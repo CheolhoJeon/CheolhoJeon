@@ -1,6 +1,6 @@
 <h1 align="center"> Hello! 👋  I'm Cheolho and Back-end Engineer!</h1>
 
-* Mention
+* Testing Is a Standard Part of The Programming Process - Bruce Eckel
 * Mention
 * Mention
 * Mention
