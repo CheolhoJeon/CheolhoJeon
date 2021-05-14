@@ -2,7 +2,7 @@
 
 * Testing Is a Standard Part of The Programming Process - Bruce Eckel
 * A collection is an object that holds other objects.
-* Mention
+* 날카롭게 바라보되, 부드럽게 표현하자 - Charlie
 * Mention
 * Mention
 
