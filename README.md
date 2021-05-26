@@ -1,10 +1,10 @@
 <h1 align="center"> Hello! 👋  I'm Cheolho and Back-end Engineer!</h1>
 
 * Testing Is a Standard Part of The Programming Process - Bruce Eckel
-* A collection is an object that holds other objects.
+* A collection is an object that holds other objects
 * 날카롭게 바라보되, 부드럽게 표현하자 - Charlie
-* Mention
-* Mention
+* Objects store data in properties and perform actions via member functions - Bruce Eckel
+* An object also belongs to a category called a class, which determines the form (properties and functions) for its objects - Bruce Eckel
 
 
 ## Stats
