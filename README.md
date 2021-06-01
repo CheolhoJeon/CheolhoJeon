@@ -10,7 +10,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheolhoJeon&hide_border=true">
 </div>
 
-## metions
+## Mentions
 * Testing Is a Standard Part of The Programming Process - Bruce Eckel
 * A collection is an object that holds other objects
 * 날카롭게 바라보되, 부드럽게 표현하자 - Charlie
