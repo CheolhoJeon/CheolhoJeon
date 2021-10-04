@@ -17,5 +17,5 @@
 * Objects store data in properties and perform actions via member functions - Bruce Eckel
 * An object also belongs to a category called a class, which determines the form (properties and functions) for its objects - Bruce Eckel
 * Try to be a good person for client programmer - Charlie
-* 가장 중요한 동료는 캡슐화다 - Bain
+* 가장 중요한 동료는 캡슐화다 - Scott L. Bain
 * 좋은 설계란 오늘의 기능을 수행하면서 내일의 변경을 수용할 수 있는 설계다 - 조영호
