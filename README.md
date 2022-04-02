@@ -1,5 +1,7 @@
 <h1 align="center"> Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px"></h1>
 
+✍️ 프로그래밍 언어로 이야기를 전하는 개발자
+
 💻 2년차 백엔드 엔지니어(사실 대학원에서 백엔드를 시작해서 내가 몇년차인지 모르겠음)
 
 😁 자기 이름대로 살고 있음(밝을 철, 밝을 호)
